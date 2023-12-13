@@ -4,4 +4,4 @@ FLAGS = -DDEBUG
 CPP = -lstdc++
 
 all:
-	$(CC) $(FLAGS) damosh -o -lreadline damoshparser.cpp damosh.cpp $(CPP)
+	$(CC) $(FLAGS) -o damosh -lreadline damoshparser.cpp damosh.cpp $(CPP)
