@@ -9,5 +9,5 @@ Current Progress:
  - [x] Execute System PATH Variable
  - [x] Execute MYPATH Variable
  - [ ] Compiles Without Error
- - [ ] ^A ^B ^C ^D a.k.a Arrow Key Implemented
+ - [x] ^A ^B ^C ^D a.k.a Arrow Key Implemented
  - [x] Syntax Appending
