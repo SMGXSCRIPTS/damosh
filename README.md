@@ -11,3 +11,4 @@ Current Progress:
  - [ ] Compiles Without Error
  - [x] ^A ^B ^C ^D a.k.a Arrow Key Implemented
  - [x] Syntax Appending
+ - [ ] Piping Data Between Commands
